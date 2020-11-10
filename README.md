@@ -14,5 +14,5 @@
 3. Run `ng serve` to start App
 4. Visit [http://localhost:4200/](http://localhost:4200/)
 
-![Web View](https://github.com/techquee/burgersCart/blob/master/src/assets/Screenshot (11).png)
-![Mobile View](https://github.com/techquee/burgersCart/blob/master/src/assets/Screenshot (12).png)
+![Web View](https://github.com/techquee/burgersCart/blob/master/src/assets/Screenshot(11).png)
+![Mobile View](https://github.com/techquee/burgersCart/blob/master/src/assets/Screenshot(12).png)
