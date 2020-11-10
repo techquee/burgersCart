@@ -1,0 +1,118 @@
+[
+  {
+    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+    "price": 3.50,
+    "name": "Greens",
+    "description": "Looking for simple, clean and green? Four of the most nutrient dense leafy greens create the base in our low-sugar Greens 1.",
+    "ingredients": [
+      {
+        "name": "cheese",
+        "percentage": 50
+      },
+      {
+        "name": "celery",
+        "percentage": 20
+      },
+      {
+        "name": "apple",
+        "percentage": 20
+      },
+      {
+        "name": "cucumber",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "id": "bdcbe438-ac85-4acf-8949-5627fd5b57df",
+    "price": 2.75,
+    "name": "Citrus",
+    "description": "Scrum Delicious whistlestershire burger.",
+    "ingredients": [
+      {
+        "name": "chicken",
+        "percentage": 50
+      },
+      {
+        "name": "apple",
+        "percentage": 20
+      },
+      {
+        "name": "mint",
+        "percentage": 20
+      },
+      {
+        "name": "celary",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "id": "58552daa-30f6-46fa-a808-f1a1d7667561",
+    "price": 3,
+    "name": "Roots",
+    "description": "Beets help your body to release stomach acid which aids digestion, this is both pretty and nutritious!",
+    "ingredients": [
+      {
+        "name": "mutten",
+        "percentage": 50
+      },
+      {
+        "name": "beetroot",
+        "percentage": 20
+      },
+      {
+        "name": "ginger",
+        "percentage": 20
+      },
+      {
+        "name": "lemon",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "id": "d4666802-fd84-476f-9eea-c8dd29cfb633",
+    "price": 1.99,
+    "name": "Orange",
+    "description": "Cheesy burger",
+    "ingredients": [
+      {
+        "name": "fish",
+        "percentage": 50
+      },
+      {
+        "name": "lemon",
+        "percentage": 20
+      },
+      {
+        "name": "orange",
+        "percentage": 20
+      },
+      {
+        "name": "cabbage",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "id": "7ef3b9dd-5a95-4415-af37-6871d6ff0262",
+    "price": 2.50,
+    "name": "Coconut",
+    "description": "a different burger",
+    "ingredients": [
+      {
+        "name": "Coconut",
+        "percentage": 70
+      },
+      {
+        "name": "Cinnamon",
+        "percentage": 20
+      },
+      {
+        "name": "tomato",
+        "percentage": 10
+      }
+    ]
+  }
+]
